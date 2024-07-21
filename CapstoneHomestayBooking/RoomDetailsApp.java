@@ -18,6 +18,7 @@ public class RoomDetailsApp extends RoomDetails{
 
     public static void main(String[] args) {
         try {
+
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter your bill ID: ");
             int billId = sc.nextInt();

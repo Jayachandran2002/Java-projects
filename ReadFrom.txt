@@ -1,0 +1,11 @@
+English: 30
+Maths: 45
+Science: 40
+
+English: 35
+Maths: 48
+Science: 45
+
+English: 65
+Maths: 93
+Science: 85
