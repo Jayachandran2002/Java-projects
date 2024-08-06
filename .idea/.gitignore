@@ -2,9 +2,9 @@
 /shelf/
 /workspace.xml
 
-idea/
-test/
+/idea/
+/test/
 
-*.class
+/*.class
 
-*.iml
+/*.iml
