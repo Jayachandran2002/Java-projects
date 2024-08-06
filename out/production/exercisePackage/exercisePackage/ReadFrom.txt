@@ -9,4 +9,3 @@ Science: 45
 English: 65
 Maths: 93
 Science: 85
-John Total.txt
